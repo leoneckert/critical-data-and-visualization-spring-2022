@@ -111,7 +111,7 @@ function averageData(data){
 
 Example what this function does. If a dataset is:
 ```json
-data = [
+let data = [
     {
         "category1": 3,
         "category2": 7,
