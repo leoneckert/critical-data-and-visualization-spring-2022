@@ -43,10 +43,11 @@ The following trick comes from [here](http://blog.pamelafox.org/2013/06/exportin
 - In your spreadsheet, click on Extensions>Apps Script.
 - In the window that opens paste [this code](script.js).
 - After that, click save 💾 and Run ▶️
+- You may be asked to give your permission to run the code. This only happens the first time. 
 - Return to the spreadsheet and refresh the page.
 
 
-After that, a new button will appear in your Sheet's toolbar that says ``Export JSON``. When you click it for the first time you will need to authenticate and accept that the script you are using can access the content of your Sheet.
+After that, a new button will appear in your Sheet's toolbar that says ``Export JSON``. If it didn't happen earlier, you will now be asked to authenticate and accept that the script you are using can access the content of your Sheet.
 
 ![export2](assets/export2.png)
 
