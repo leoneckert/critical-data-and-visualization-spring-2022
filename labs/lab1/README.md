@@ -45,124 +45,60 @@ Today, we will all use the same dataset collected using this method. It is here 
 
 [
     {
-        "timestamp": "2021-01-27T02:48:02.529Z",
-        "watermelonWithFetaCheese": 1,
-        "cheesePizzaWithRanchDressing": 5,
-        "soySauceOnSpaghetti": 3,
-        "iceCreamWithChiliSauce": 1,
-        "garlicWithRamen": 3
+        "timestamp": "2022-02-10T02:37:18.560Z",
+        "verySaltyFish": 5,
+        "durian": 5,
+        "centuryEgg": 1,
+        "friedOreos": 3,
+        "螺蛳粉": 3
     },
     {
-        "timestamp": "2021-01-27T02:48:04.214Z",
-        "watermelonWithFetaCheese": 5,
-        "cheesePizzaWithRanchDressing": 4,
-        "soySauceOnSpaghetti": 5,
-        "iceCreamWithChiliSauce": 1,
-        "garlicWithRamen": 4
+        "timestamp": "2022-02-10T02:37:21.224Z",
+        "verySaltyFish": 2,
+        "durian": 4,
+        "centuryEgg": 2,
+        "friedOreos": 4,
+        "螺蛳粉": 2
     },
     {
-        "timestamp": "2021-01-27T02:48:05.138Z",
-        "watermelonWithFetaCheese": 2,
-        "cheesePizzaWithRanchDressing": 4,
-        "soySauceOnSpaghetti": 4,
-        "iceCreamWithChiliSauce": 4,
-        "garlicWithRamen": 5
+        "timestamp": "2022-02-10T02:37:22.235Z",
+        "verySaltyFish": 5,
+        "durian": 2,
+        "centuryEgg": 1,
+        "friedOreos": 3,
+        "螺蛳粉": 3
     },
     {
-        "timestamp": "2021-01-27T02:48:05.520Z",
-        "watermelonWithFetaCheese": 1,
-        "cheesePizzaWithRanchDressing": 2,
-        "soySauceOnSpaghetti": 3,
-        "iceCreamWithChiliSauce": 3,
-        "garlicWithRamen": 4
+        "timestamp": "2022-02-10T02:37:23.531Z",
+        "verySaltyFish": 2,
+        "durian": 3,
+        "centuryEgg": 1,
+        "friedOreos": 5,
+        "螺蛳粉": 1
     },
     {
-        "timestamp": "2021-01-27T02:48:11.098Z",
-        "watermelonWithFetaCheese": 1,
-        "cheesePizzaWithRanchDressing": 5,
-        "soySauceOnSpaghetti": 5,
-        "iceCreamWithChiliSauce": 4,
-        "garlicWithRamen": 4
+        "timestamp": "2022-02-10T02:37:31.955Z",
+        "verySaltyFish": 4,
+        "durian": 2,
+        "centuryEgg": 1,
+        "friedOreos": 4,
+        "螺蛳粉": 2
     },
     {
-        "timestamp": "2021-01-27T02:48:14.848Z",
-        "watermelonWithFetaCheese": 2,
-        "cheesePizzaWithRanchDressing": 4,
-        "soySauceOnSpaghetti": 3,
-        "iceCreamWithChiliSauce": 2,
-        "garlicWithRamen": 1
+        "timestamp": "2022-02-10T02:37:36.563Z",
+        "verySaltyFish": 1,
+        "durian": 5,
+        "centuryEgg": 3,
+        "friedOreos": 5,
+        "螺蛳粉": 1
     },
     {
-        "timestamp": "2021-01-27T02:48:16.147Z",
-        "watermelonWithFetaCheese": 4,
-        "cheesePizzaWithRanchDressing": 3,
-        "soySauceOnSpaghetti": 4,
-        "iceCreamWithChiliSauce": 2,
-        "garlicWithRamen": 4
-    },
-    {
-        "timestamp": "2021-01-27T02:48:27.096Z",
-        "watermelonWithFetaCheese": 1,
-        "cheesePizzaWithRanchDressing": 3,
-        "soySauceOnSpaghetti": 5,
-        "iceCreamWithChiliSauce": 5,
-        "garlicWithRamen": 5
-    },
-    {
-        "timestamp": "2021-01-27T02:48:28.716Z",
-        "watermelonWithFetaCheese": 2,
-        "cheesePizzaWithRanchDressing": 2,
-        "soySauceOnSpaghetti": 3,
-        "iceCreamWithChiliSauce": 1,
-        "garlicWithRamen": 2
-    },
-    {
-        "timestamp": "2021-01-27T02:48:29.403Z",
-        "watermelonWithFetaCheese": 1,
-        "cheesePizzaWithRanchDressing": 3,
-        "soySauceOnSpaghetti": 4,
-        "iceCreamWithChiliSauce": 5,
-        "garlicWithRamen": 5
-    },
-    {
-        "timestamp": "2021-01-27T02:48:32.183Z",
-        "watermelonWithFetaCheese": 2,
-        "cheesePizzaWithRanchDressing": 5,
-        "soySauceOnSpaghetti": 5,
-        "iceCreamWithChiliSauce": 4,
-        "garlicWithRamen": 5
-    },
-    {
-        "timestamp": "2021-01-27T02:48:33.725Z",
-        "watermelonWithFetaCheese": 1,
-        "cheesePizzaWithRanchDressing": 2,
-        "soySauceOnSpaghetti": 3,
-        "iceCreamWithChiliSauce": 1,
-        "garlicWithRamen": 2
-    },
-    {
-        "timestamp": "2021-01-27T02:48:34.622Z",
-        "watermelonWithFetaCheese": 3,
-        "cheesePizzaWithRanchDressing": 4,
-        "soySauceOnSpaghetti": 2,
-        "iceCreamWithChiliSauce": 4,
-        "garlicWithRamen": 2
-    },
-    {
-        "timestamp": "2021-01-27T02:48:54.515Z",
-        "watermelonWithFetaCheese": 2,
-        "cheesePizzaWithRanchDressing": 5,
-        "soySauceOnSpaghetti": 5,
-        "iceCreamWithChiliSauce": 2,
-        "garlicWithRamen": 3
-    },
-    {
-        "timestamp": "2021-01-27T02:49:03.752Z",
-        "watermelonWithFetaCheese": 3,
-        "cheesePizzaWithRanchDressing": 4,
-        "soySauceOnSpaghetti": 2,
-        "iceCreamWithChiliSauce": 2,
-        "garlicWithRamen": 4
+        "timestamp": "2022-02-10T02:37:39.947Z",
+        "verySaltyFish": 4,
+        "durian": 3,
+        "centuryEgg": 5,
+        "friedOreos": 4,
+        "螺蛳粉": 3
     }
 ]
 
