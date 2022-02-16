@@ -1,4 +1,5 @@
 __drafts
+__test*
 .DS_Store
 
 # hi, below I have populated your .gitignore file
