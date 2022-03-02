@@ -51,7 +51,8 @@ Find a full example in the same folder as this README file. ([here](example/scri
 
 
 ---
-### Also of Interest
+
+#### Also of Interest
 In other scenarios you might be looking for a way to resize the text size based on the available, horizontal space, like this:
 ![assets/textSize.png](assets/textSize.png)
 
