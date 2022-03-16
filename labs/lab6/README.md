@@ -2,13 +2,13 @@
 
 
 ### today's agenda
-- Please download the empty [Exercise Files](enter-update-exit-transition-empty.zip) (for your reference only).
+- Please download the empty [Exercise Files](https://github.com/leoneckert/critical-data-and-visualization-spring-2022/raw/main/labs/lab6/enter-update-exit-transition-empty.zip) (for your reference only).
 - This lab is structure into 4 parts:
   - Part 1
-    - check out the goal – we are building [this visualization]()
+    - check out the goal – we are building [this visualization](https://leoneckert.github.io/critical-data-and-visualization-spring-2022/labs/lab6/enter-update-exit-transition-finished/)
     - understand the data (it's a little different than usual)
     - setup code (in class, you will watch Leon code this part)
-    - then download the [Exercise Files that include the setup](enter-update-exit-transition-start.zip)
+    - then download the [Exercise Files that include the setup](https://github.com/leoneckert/critical-data-and-visualization-spring-2022/raw/main/labs/lab6/enter-update-exit-transition-start.zip)
   - Part 2
     - update
     - exit
