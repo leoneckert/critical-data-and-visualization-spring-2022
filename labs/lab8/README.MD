@@ -3,10 +3,10 @@
 
 - Review "Data Keys":
   - Example **Without** Keys
-    - [online example](https://cdv.leoneckert.com/keys/mini-transition-example-no-keys/)
+    - [online example](https://leoneckert.github.io/critical-data-and-visualization-spring-2022/labs/lab8/mini-transition-example-no-keys/)
     - [code](mini-transition-example-no-keys) & [download](mini-transition-example-no-keys/mini-transition-example-no-keys.zip)
   - Example **With** Keys
-    - [online example](https://cdv.leoneckert.com/keys/mini-transition-example-keys/)
+    - [online example](https://leoneckert.github.io/critical-data-and-visualization-spring-2022/labs/lab8/mini-transition-example-keys/)
     - [code](mini-transition-example-keys) & [download](mini-transition-example-keys/mini-transition-example-keys.zip)
   - Mike Bostock's [description](https://bost.ocks.org/mike/constancy/)
 - Descriptions: Generators, Components & Layouts
