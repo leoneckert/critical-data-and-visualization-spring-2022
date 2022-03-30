@@ -201,7 +201,7 @@ function gotData(incomingData){
     existingElements.select("circle")
       .attr("r", getRadius)
     ;
-    existingElements.transition().duration(2000).ease(d3.easeLinear).attr("transform", getGroupPosition);
+    existingElements.transition().ease(d3.easeLinear).duration(2000).attr("transform", getGroupPosition);
   }
 
   // this loosk messy. It makes sure data is shown AND moving from the very first moment

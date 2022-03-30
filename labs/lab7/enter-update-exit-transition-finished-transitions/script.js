@@ -74,7 +74,22 @@ function gotData(incomingData){
     }
     // UPDATING ELEMENTS:
     let datagroups = vizGroup.selectAll(".datagroup").data(dataToShow, assignKey)
-    datagroups.transition().duration(500).attr("transform", getGroupLocation);
+    function delayFunction(d, i){
+      return i*300
+    }
+    function easeFunction(t){
+      return
+      if(d.name == "A"){
+        return d3.easeBounceInOut(t);
+      }else{
+        return d3.easeLinear(t);
+      }
+    }
+    datagroups.filter(d=>d.name=="A").transition().delay(delayFunction).ease(d3.easeBounceInOut).duration(5000).attr("transform", getGroupLocation);
+    datagroups.filter(d=>d.name!="A").transition().delay(delayFunction).ease(d3.easeLinear).duration(2000).attr("transform", getGroupLocation);
+
+    // datagroups.transition().duration(2000).attr("transform", getGroupLocation);
+
     // datagroups.select("text")
     //   .text(function(d, i){
     //     return d.name;
