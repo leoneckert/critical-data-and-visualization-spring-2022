@@ -36,6 +36,13 @@
         - there are many different projections we can use, find them on [D3s GEO documentation](https://github.com/d3/d3-geo)
         - here is an [overview of D3's projections](https://bl.ocks.org/mbostock/3711652) (old version of D3 again)
 
+
+#### In class exercise:
+Download the [Exercise Code](material/line-to-map-start.zip).
+
+[The Video](https://drive.google.com/file/d/14NjhbUB2jH654_0dzXBoLMZhAStkEbMq/view?usp=sharing)
+
+
 #### Some notes:
 Working with two datasetsets:
 - this means that you will most likely* have a nested structure of data loading:
@@ -73,7 +80,4 @@ let pathMaker = d3.geoPath(projection);
   - NOTE: This rectangle will NOT vary in size (radius) along with the projection.
     - for making circles actual part of the map, see [d3.geoCircle()](https://github.com/d3/d3-geo#spherical-shapes)
 
-#### In class exercise:
-Download the [Exercise Code](material/line-to-map-start.zip).
 
-[The Video](https://drive.google.com/file/d/14NjhbUB2jH654_0dzXBoLMZhAStkEbMq/view?usp=sharing)
