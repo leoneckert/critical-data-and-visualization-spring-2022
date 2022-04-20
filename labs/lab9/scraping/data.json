@@ -1,0 +1,1286 @@
+{
+    "year": 2020,
+    "data": {
+        "awardName": "Golden Berlin Bear",
+        "trivia": [],
+        "categories": [
+            {
+                "categoryName": "Best Film",
+                "nominations": [
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Alcarr\u00e0s",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzVlMmQ0ZjUtYTk2ZC00MjBiLWI5OGYtZTI0OGIwMzg4YTRlXkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_.jpg",
+                                "imageHeight": 1000,
+                                "imageWidth": 675,
+                                "originalName": null,
+                                "const": "tt11930126"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Carla Sim\u00f3n",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjIzZWVmMGMtYzMxNy00YmM1LTlmMjctYWJjZWRiNWY4ZWU2XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
+                                "imageHeight": 640,
+                                "imageWidth": 954,
+                                "const": "nm3427032"
+                            }
+                        ],
+                        "categoryName": "Best Film",
+                        "winAnnouncementTime": 1645100241,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1647293",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": true
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "A E I O U - A Quick Alphabet of Love",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmNjZTYyNzktYjg2My00Mjg4LTlkZTUtMzkzMWNlYjUxY2EyXkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_.jpg",
+                                "imageHeight": 1131,
+                                "imageWidth": 800,
+                                "originalName": "A E I O U - Das schnelle Alphabet der Liebe",
+                                "const": "tt17154094"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Nicolette Krebitz",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY5NTI2OTE1N15BMl5BanBnXkFtZTYwNDY4NTI1._V1_.jpg",
+                                "imageHeight": 400,
+                                "imageWidth": 313,
+                                "const": "nm0470514"
+                            }
+                        ],
+                        "categoryName": "Best Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1647309",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "A Piece of Sky",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjJiZDllYmQtOGFhYS00NDc3LTgyNTItMzM1Y2YwOWFlZmY1XkEyXkFqcGdeQXVyNTQwOTY1MTg@._V1_.jpg",
+                                "imageHeight": 1308,
+                                "imageWidth": 1797,
+                                "originalName": "Drii Winter",
+                                "const": "tt14783042"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Michael Koch",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWE3ODNlMTEtNTZlMi00MjNkLWI2OGMtYjVlNThjYmI5NTBkXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+                                "imageHeight": 435,
+                                "imageWidth": 620,
+                                "const": "nm1345081"
+                            }
+                        ],
+                        "categoryName": "Best Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1647304",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Before, Now & Then",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2VkNThhOTYtMDc5MC00OGQ0LWE1NjQtYjE2MjNjNmMzODc0XkEyXkFqcGdeQXVyMTE4MTAxMzUx._V1_.jpg",
+                                "imageHeight": 1212,
+                                "imageWidth": 970,
+                                "originalName": "Nana",
+                                "const": "tt15215918"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Kamila Andini",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2E3ODY3YjEtMzAyOS00MjkzLWFiZTgtNWU1NWMwYmZjYjgyXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+                                "imageHeight": 790,
+                                "imageWidth": 1400,
+                                "const": "nm4461980"
+                            }
+                        ],
+                        "categoryName": "Best Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1647294",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Call Jane",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjliOGZiMjgtZmNjNi00Y2FiLTk3MGYtZTcwMzMwYTVkMWU2XkEyXkFqcGdeQXVyMTMxODA5NzUw._V1_.jpg",
+                                "imageHeight": 1441,
+                                "imageWidth": 2560,
+                                "originalName": null,
+                                "const": "tt7461272"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Phyllis Nagy",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDYzMzg5MzQyOV5BMl5BanBnXkFtZTgwNjMxODYxODE@._V1_.jpg",
+                                "imageHeight": 1962,
+                                "imageWidth": 1450,
+                                "const": "nm0619507"
+                            }
+                        ],
+                        "categoryName": "Best Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1647296",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Everything Will Be OK",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWI0ZjRlYzctODAyOC00YTRhLWI4YjctMWJhYTkxZTJlNjAwXkEyXkFqcGdeQXVyMTQ5Mzc5MDU@._V1_.jpg",
+                                "imageHeight": 746,
+                                "imageWidth": 1380,
+                                "originalName": null,
+                                "const": "tt15386518"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Rithy Panh",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTU2ODU0NTM5MV5BMl5BanBnXkFtZTcwNjgxMjc1OQ@@._V1_.jpg",
+                                "imageHeight": 2025,
+                                "imageWidth": 2048,
+                                "const": "nm0659454"
+                            }
+                        ],
+                        "categoryName": "Best Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1647297",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Fire",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2Q4MDYyNDctYTMwMS00NGY5LTgwMmEtZWM1Mjg4ZDM1NmJmXkEyXkFqcGdeQXVyMTUzNDkzNDY@._V1_.jpg",
+                                "imageHeight": 1024,
+                                "imageWidth": 695,
+                                "originalName": "Avec amour et acharnement",
+                                "const": "tt13535920"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Claire Denis",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTI1MDA3NDI4MF5BMl5BanBnXkFtZTYwNDg3ODcz._V1_.jpg",
+                                "imageHeight": 400,
+                                "imageWidth": 270,
+                                "const": "nm0219136"
+                            }
+                        ],
+                        "categoryName": "Best Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1647295",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Leonora addio",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2E4MDEyZDUtZTIyMy00NTNjLTllZmUtZGU0YmQ4OTlmN2I4XkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_.jpg",
+                                "imageHeight": 1143,
+                                "imageWidth": 800,
+                                "originalName": null,
+                                "const": "tt13107800"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Paolo Taviani",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGU4OWNjMDUtZWFhNS00ZTI0LWE0MWMtMzE3ODRmOGMxNzJiXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+                                "imageHeight": 1200,
+                                "imageWidth": 800,
+                                "const": "nm0851752"
+                            }
+                        ],
+                        "categoryName": "Best Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1647298",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "One Year, One Night",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTNkMzYzZjQtNjM2MC00NzZhLTg4ODMtODM1NTczYzA2ZWRhXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
+                                "imageHeight": 937,
+                                "imageWidth": 656,
+                                "originalName": "Un a\u00f1o, una noche",
+                                "const": "tt14104600"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Isaki Lacuesta",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGE0NTQzZTgtZmViNS00MDEwLTgwMzItNzZmZmU3YWVjMTc5XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
+                                "imageHeight": 664,
+                                "imageWidth": 1143,
+                                "const": "nm1050097"
+                            }
+                        ],
+                        "categoryName": "Best Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1647301",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Peter von Kant",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjRjYjJjZmUtYzgzMS00NWE2LWFkMmQtYTcwNDFiMmVkNGQ2XkEyXkFqcGdeQXVyMTMwNjQxNDU1._V1_.jpg",
+                                "imageHeight": 900,
+                                "imageWidth": 1600,
+                                "originalName": null,
+                                "const": "tt14336174"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Fran\u00e7ois Ozon",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjIxODU0NzY3MF5BMl5BanBnXkFtZTcwNTc1NzI1OQ@@._V1_.jpg",
+                                "imageHeight": 2048,
+                                "imageWidth": 1318,
+                                "const": "nm0654830"
+                            }
+                        ],
+                        "categoryName": "Best Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1647303",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Rabiye Kurnaz vs. George W. Bush",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDVlZWZjN2YtNjY0YS00NGZlLWE2ZmMtYTJiMTY4OTM3MTNmXkEyXkFqcGdeQXVyNTU1MzE3NDk@._V1_.jpg",
+                                "imageHeight": 700,
+                                "imageWidth": 490,
+                                "originalName": "Rabiye",
+                                "const": "tt13471738"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Andreas Dresen",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY0OTY4OTE3Ml5BMl5BanBnXkFtZTcwMTg1NzUyNQ@@._V1_.jpg",
+                                "imageHeight": 2048,
+                                "imageWidth": 1691,
+                                "const": "nm0237527"
+                            }
+                        ],
+                        "categoryName": "Best Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1647305",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Return to Dust",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzhmYTkxOWEtZTY3ZS00ZWE2LTllNzItZTdmZDk0MzBiZTZhXkEyXkFqcGdeQXVyNTY4ODAxODI@._V1_.jpg",
+                                "imageHeight": 4480,
+                                "imageWidth": 3000,
+                                "originalName": "Yin ru chen yan",
+                                "const": "tt17097088"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Ruijun Li",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjk4YzY0ZmQtNWY0OS00N2MzLWFiM2MtNDI5YzIyZmRlZWRlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+                                "imageHeight": 486,
+                                "imageWidth": 360,
+                                "const": "nm4772581"
+                            }
+                        ],
+                        "categoryName": "Best Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1647306",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Rimini",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjZhM2E5NzQtMmQ4Mi00OWM1LWJjMTUtZjI3MDAzYzU1N2Y4XkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_.jpg",
+                                "imageHeight": 720,
+                                "imageWidth": 510,
+                                "originalName": null,
+                                "const": "tt8956284"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Ulrich Seidl",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTU3MzkyODU0OV5BMl5BanBnXkFtZTcwNzc0NTI4Nw@@._V1_.jpg",
+                                "imageHeight": 2048,
+                                "imageWidth": 1363,
+                                "const": "nm0782430"
+                            }
+                        ],
+                        "categoryName": "Best Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1647307",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Robe of Gems",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzU0ZjU0YzctMjU0My00ZDgzLTkwZDEtMDBkYzAyOWRiMjc0XkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_.jpg",
+                                "imageHeight": 1954,
+                                "imageWidth": 1380,
+                                "originalName": null,
+                                "const": "tt17280362"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Natalia L\u00f3pez",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BOWIzZDMxYTgtNTJiYi00MTMxLTk5ZmQtNzEwY2NhMjAzYjk0XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg",
+                                "imageHeight": 1060,
+                                "imageWidth": 2570,
+                                "const": "nm2254746"
+                            }
+                        ],
+                        "categoryName": "Best Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1647308",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "That Kind of Summer",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTJmOGE5NDItY2ZmYy00ZmIxLThlMTktN2I0YmQ1YmU2YzYyXkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_.jpg",
+                                "imageHeight": 2015,
+                                "imageWidth": 1426,
+                                "originalName": "Un \u00e9t\u00e9 comme \u00e7a",
+                                "const": "tt16944826"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Denis C\u00f4t\u00e9",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjc0ZDQ1OGEtMDZkMS00ZGY5LTk1ZWUtYmVjMzcwYjVmMGVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg",
+                                "imageHeight": 900,
+                                "imageWidth": 600,
+                                "const": "nm1992193"
+                            }
+                        ],
+                        "categoryName": "Best Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1647310",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "The Line",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BYmJkYjBkYTctN2ZiNi00ZDkyLTk1ZmYtMzdiMDg3Y2E4MjNhXkEyXkFqcGdeQXVyMTMyMDYyNTA0._V1_.jpg",
+                                "imageHeight": 831,
+                                "imageWidth": 1984,
+                                "originalName": "La ligne",
+                                "const": "tt13086492"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Ursula Meier",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjEzODY4MzU2N15BMl5BanBnXkFtZTcwMzMwNTgzNw@@._V1_.jpg",
+                                "imageHeight": 1364,
+                                "imageWidth": 2048,
+                                "const": "nm0576732"
+                            }
+                        ],
+                        "categoryName": "Best Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1647299",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "The Novelist's Film",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzdmZTAyMDQtMjY5NC00ZDBjLTlhNGUtNDRiOTJjMjZlZjMxXkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_.jpg",
+                                "imageHeight": 1539,
+                                "imageWidth": 1080,
+                                "originalName": "So-seol-ga-ui Yeong-hwa",
+                                "const": "tt17146978"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Hong Sang-soo",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BODIxMDMyMTA5MV5BMl5BanBnXkFtZTcwMTI0Njk3Nw@@._V1_.jpg",
+                                "imageHeight": 2048,
+                                "imageWidth": 1362,
+                                "const": "nm0393254"
+                            }
+                        ],
+                        "categoryName": "Best Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1647300",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "The Passengers of the Night",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2ZmM2NjMjYtNDJmYy00NjA1LTgyZTItYjhiMTdjY2MyOTYwXkEyXkFqcGdeQXVyMTMwNjQxNDU1._V1_.jpg",
+                                "imageHeight": 3732,
+                                "imageWidth": 2741,
+                                "originalName": "Les passagers de la nuit",
+                                "const": "tt13846402"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Mikha\u00ebl Hers",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BOWQwYjkwYWUtYjkzNi00YWY4LThiYjItMGZmMzY4MGRhY2UxXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+                                "imageHeight": 427,
+                                "imageWidth": 640,
+                                "const": "nm1492984"
+                            }
+                        ],
+                        "categoryName": "Best Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1647302",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    }
+                ],
+                "isPremiumCategory": false
+            },
+            {
+                "categoryName": "Short Film",
+                "nominations": [
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Trap",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzE0Y2Q2YzYtM2YxYi00Y2RmLWE0OTItMmNmZTkzMzFjMWYxXkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_.jpg",
+                                "imageHeight": 900,
+                                "imageWidth": 600,
+                                "originalName": null,
+                                "const": "tt17162584"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Anastasia Veber",
+                                "note": null,
+                                "imageUrl": null,
+                                "imageHeight": 0,
+                                "imageWidth": 0,
+                                "const": "nm10860898"
+                            }
+                        ],
+                        "categoryName": "Short Film",
+                        "winAnnouncementTime": 1645526312,
+                        "notes": "Through a masterfully crafted montage, fragments of the lives of young people, seemingly stuck in a controlling and oppressive society emerge. The carefully and minimally constructed narrative is used to draw us cinematically into a feeling of both ecstasy, resistance and hopelessness all at once. The forceful last scene puts us in a vortex of energy, leaving us no choice but to become a part of this world, by transporting us to an empowering communal feeling through the camera's eye - produced by desires to imagine, trust and resist together.",
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1630267",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": true
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "A Story for 2 Trumpets",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmYyM2E1ODQtMWM5NC00ZDRhLTg0Y2QtOTY1NDkzZTkwMjg4XkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_.jpg",
+                                "imageHeight": 1023,
+                                "imageWidth": 739,
+                                "originalName": "Histoire pour 2 Trompettes",
+                                "const": "tt17162614"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Amandine Meyer",
+                                "note": null,
+                                "imageUrl": null,
+                                "imageHeight": 0,
+                                "imageWidth": 0,
+                                "const": "nm13319086"
+                            }
+                        ],
+                        "categoryName": "Short Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1630263",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Agrilogistics",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDEyM2Y2OTYtNTk3Mi00ODY5LWJmMjgtNDRlZDY3MDgwOTJhXkEyXkFqcGdeQXVyMTMwNjQxNDU1._V1_.jpg",
+                                "imageHeight": 3000,
+                                "imageWidth": 2119,
+                                "originalName": null,
+                                "const": "tt17162360"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Gerard Ort\u00edn Castellv\u00ed",
+                                "note": null,
+                                "imageUrl": null,
+                                "imageHeight": 0,
+                                "imageWidth": 0,
+                                "const": "nm9285136"
+                            }
+                        ],
+                        "categoryName": "Short Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1630256",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Bird in the Peninsula",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTc2MzU0ZGQtMGU0Yi00NGI3LThmMTYtN2Y2YzQ1MzMwMmM0XkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_.jpg",
+                                "imageHeight": 1023,
+                                "imageWidth": 739,
+                                "originalName": null,
+                                "const": "tt17162390"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Atsushi Wada",
+                                "note": null,
+                                "imageUrl": null,
+                                "imageHeight": 0,
+                                "imageWidth": 0,
+                                "const": "nm3514433"
+                            }
+                        ],
+                        "categoryName": "Short Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1630259",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "By Fl\u00e1vio",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BMmI1NTlhNDgtMDUwMy00OGQyLWIxYmYtZGVjYjAyYjhkMTJlXkEyXkFqcGdeQXVyMjQ1Njk1Mjg@._V1_.jpg",
+                                "imageHeight": 1063,
+                                "imageWidth": 768,
+                                "originalName": null,
+                                "const": "tt17042678"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Pedro Cabeleira",
+                                "note": null,
+                                "imageUrl": null,
+                                "imageHeight": 0,
+                                "imageWidth": 0,
+                                "const": "nm4297908"
+                            }
+                        ],
+                        "categoryName": "Short Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1628177",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Dirndlschuld",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTU0YzVlYWUtZmVhNC00Mzk4LTk3MmItODZlNmU3ZmVhMmE3XkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_.jpg",
+                                "imageHeight": 1953,
+                                "imageWidth": 1380,
+                                "originalName": null,
+                                "const": "tt17162394"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Wilbirg Brainin-Donnenberg",
+                                "note": null,
+                                "imageUrl": null,
+                                "imageHeight": 0,
+                                "imageWidth": 0,
+                                "const": "nm13318934"
+                            }
+                        ],
+                        "categoryName": "Short Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1630260",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Exalted Mars",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTBkZWNjNGItZjdlYi00OTY2LWFjYjAtZDc2NGUyODJmOTQxXkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_.jpg",
+                                "imageHeight": 1024,
+                                "imageWidth": 724,
+                                "originalName": "Mars exalt\u00e9",
+                                "const": "tt17041656"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Jean-S\u00e9bastien Chauvin",
+                                "note": null,
+                                "imageUrl": null,
+                                "imageHeight": 0,
+                                "imageWidth": 0,
+                                "const": "nm0154411"
+                            }
+                        ],
+                        "categoryName": "Short Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1628172",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Four Nights",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGNlNTg0ZjUtNmMxOS00N2ZlLTljZWYtZjdjYTY2MzBkNjMyXkEyXkFqcGdeQXVyMjE5MjUxMzE@._V1_.jpg",
+                                "imageHeight": 2126,
+                                "imageWidth": 1535,
+                                "originalName": null,
+                                "const": "tt15386918"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Deepak Rauniyar",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzA3ZmUxNGItNmU3My00YjdmLTk4YWYtODE4OTAyNDk2ZjFlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+                                "imageHeight": 3907,
+                                "imageWidth": 3456,
+                                "const": "nm3581951"
+                            }
+                        ],
+                        "categoryName": "Short Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1628175",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Further and Further Away",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTVkMjM5ZjQtNzEzNi00MWQxLThmYzEtOTBlZWI5OGIwYzIzXkEyXkFqcGdeQXVyMTE3NDExMTY3._V1_.jpg",
+                                "imageHeight": 7332,
+                                "imageWidth": 4889,
+                                "originalName": null,
+                                "const": "tt16492940"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Polen Ly",
+                                "note": null,
+                                "imageUrl": null,
+                                "imageHeight": 0,
+                                "imageWidth": 0,
+                                "const": "nm6347723"
+                            }
+                        ],
+                        "categoryName": "Short Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1628176",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Haulout",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjFhM2NhNWUtOWFlNy00ZDViLWFkZTAtZDI1YmQ2NmUwODJhXkEyXkFqcGdeQXVyMTMxMTIwMTE0._V1_.jpg",
+                                "imageHeight": 1296,
+                                "imageWidth": 936,
+                                "originalName": null,
+                                "const": "tt17162620"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Evgenia Arbugaeva",
+                                "note": null,
+                                "imageUrl": null,
+                                "imageHeight": 0,
+                                "imageWidth": 0,
+                                "const": "nm8205908"
+                            },
+                            {
+                                "name": "Maxim Arbugaev",
+                                "note": null,
+                                "imageUrl": null,
+                                "imageHeight": 0,
+                                "imageWidth": 0,
+                                "const": "nm8975290"
+                            }
+                        ],
+                        "categoryName": "Short Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1630261",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Heroines",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BMmNkZTVmODItMTUyOS00MjUyLThiNzItNTI5M2YyNjlkM2U0XkEyXkFqcGdeQXVyMTMwNjQxNDU1._V1_.jpg",
+                                "imageHeight": 2362,
+                                "imageWidth": 1669,
+                                "originalName": "Hero\u00ednas",
+                                "const": "tt17162678"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Marina Herrera",
+                                "note": null,
+                                "imageUrl": null,
+                                "imageHeight": 0,
+                                "imageWidth": 0,
+                                "const": "nm13319102"
+                            }
+                        ],
+                        "categoryName": "Short Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1630262",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "House of Existence",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDVhMDhmNzItNGUzZi00Y2Q5LWI1YjItY2U3NTczNDMyZTMyXkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_.jpg",
+                                "imageHeight": 1066,
+                                "imageWidth": 740,
+                                "originalName": "Jon-Jae-Ui Jib",
+                                "const": "tt17162628"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Joung Yumi",
+                                "note": null,
+                                "imageUrl": null,
+                                "imageHeight": 0,
+                                "imageWidth": 0,
+                                "const": "nm2165005"
+                            }
+                        ],
+                        "categoryName": "Short Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1630264",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "It's Raining Frogs Outside",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjYzMjc0M2EtN2Y1Mi00ODRmLTgxOTUtMTFjMDI4NzhhNzQ1XkEyXkFqcGdeQXVyNjg4NjMyMTE@._V1_.jpg",
+                                "imageHeight": 3537,
+                                "imageWidth": 2358,
+                                "originalName": "Ampangabagat nin talakba ha likol",
+                                "const": "tt17162382"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Maria Estela Paiso",
+                                "note": null,
+                                "imageUrl": null,
+                                "imageHeight": 0,
+                                "imageWidth": 0,
+                                "const": "nm8659479"
+                            }
+                        ],
+                        "categoryName": "Short Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1630258",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Kicking the Clouds",
+                                "note": null,
+                                "imageUrl": null,
+                                "imageHeight": 0,
+                                "imageWidth": 0,
+                                "originalName": null,
+                                "const": "tt16420664"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Sky Hopinka",
+                                "note": null,
+                                "imageUrl": null,
+                                "imageHeight": 0,
+                                "imageWidth": 0,
+                                "const": "nm7713357"
+                            }
+                        ],
+                        "categoryName": "Short Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1628174",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Memories from the Eastern Front",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTA3YjY2MGUtYTRhMi00NzgzLWI4ZjMtM2JlYjJmNmY4ZmY5XkEyXkFqcGdeQXVyMTMxMTIwMTE0._V1_.jpg",
+                                "imageHeight": 1038,
+                                "imageWidth": 1920,
+                                "originalName": "Amintiri de pe Frontul de Est",
+                                "const": "tt17162368"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Radu Jude",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGNhZjBiOWUtZmMwNi00NzFmLTkwMGYtYTFhYTkwMTkzMzhjXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+                                "imageHeight": 600,
+                                "imageWidth": 399,
+                                "const": "nm1257492"
+                            },
+                            {
+                                "name": "Adrian Ciofl\u00e2nc\u00e3",
+                                "note": null,
+                                "imageUrl": null,
+                                "imageHeight": 0,
+                                "imageWidth": 0,
+                                "const": "nm8597415"
+                            }
+                        ],
+                        "categoryName": "Short Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1630257",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Retreat",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjBkNGEzN2YtY2U2OS00OGIwLTg4YzYtZjIxNmY2ODI5ODhiXkEyXkFqcGdeQXVyMTMxMTIwMTE0._V1_.jpg",
+                                "imageHeight": 1953,
+                                "imageWidth": 1380,
+                                "originalName": null,
+                                "const": "tt17162604"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Anabela Angelovska",
+                                "note": null,
+                                "imageUrl": null,
+                                "imageHeight": 0,
+                                "imageWidth": 0,
+                                "const": "nm4970895"
+                            }
+                        ],
+                        "categoryName": "Short Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1630265",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Soum",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTg3ZDRhZTQtMDg4Yy00MzZjLTkxMjktNzRiZjg0Nzc0NmMwXkEyXkFqcGdeQXVyMTMwNjQxNDU1._V1_.jpg",
+                                "imageHeight": 2126,
+                                "imageWidth": 1536,
+                                "originalName": null,
+                                "const": "tt17162596"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Alice Brygo",
+                                "note": null,
+                                "imageUrl": null,
+                                "imageHeight": 0,
+                                "imageWidth": 0,
+                                "const": "nm13319069"
+                            }
+                        ],
+                        "categoryName": "Short Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1630266",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Starfuckers",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTgxMWIwOTAtNjM4Mi00YTE4LThkMDUtMjYzZDk5ZDNlYjYzXkEyXkFqcGdeQXVyNDYwMjg2MjU@._V1_.jpg",
+                                "imageHeight": 4000,
+                                "imageWidth": 3000,
+                                "originalName": null,
+                                "const": "tt16385148"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Antonio Marziale",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmM2N2ZmN2UtODNlYS00N2M4LThkOGUtNGEyZGI2NjcxZjFlXkEyXkFqcGdeQXVyNDgyNDczNTA@._V1_.jpg",
+                                "imageHeight": 3000,
+                                "imageWidth": 2694,
+                                "const": "nm5644414"
+                            }
+                        ],
+                        "categoryName": "Short Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1628171",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Sunday Morning",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2UzOGVlZmEtYjQ1Yy00MjE4LTlmYTgtNDNhMzRjNDU1ZWU3XkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_.jpg",
+                                "imageHeight": 1932,
+                                "imageWidth": 1380,
+                                "originalName": "Manh\u00e3 de Domingo",
+                                "const": "tt17022950"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Bruno Ribeiro",
+                                "note": null,
+                                "imageUrl": null,
+                                "imageHeight": 0,
+                                "imageWidth": 0,
+                                "const": "nm8829225"
+                            }
+                        ],
+                        "categoryName": "Short Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1628173",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "The Sower of Stars",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzg1MzVjMGMtMDBlNy00N2FhLWEwYTEtMjU1MTJlZDFhMGVkXkEyXkFqcGdeQXVyMTMxMTIwMTE0._V1_.jpg",
+                                "imageHeight": 2043,
+                                "imageWidth": 1380,
+                                "originalName": "El sembrador de estrellas",
+                                "const": "tt17068762"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Lois Pati\u00f1o",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjMzZjZlM2ItNGVmNC00M2JiLTkyOTYtYWE5MjM2ODYyZTMwXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
+                                "imageHeight": 1066,
+                                "imageWidth": 769,
+                                "const": "nm4727866"
+                            }
+                        ],
+                        "categoryName": "Short Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1629911",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    },
+                    {
+                        "primaryNominees": [
+                            {
+                                "name": "Will My Parents Come to See Me",
+                                "note": null,
+                                "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGQ1YTUyNDctOWFkNC00ZGIxLTk0OTEtYTVlZTkyNzQ1MDE4XkEyXkFqcGdeQXVyMTMwNjQxNDU1._V1_.jpg",
+                                "imageHeight": 1414,
+                                "imageWidth": 1000,
+                                "originalName": null,
+                                "const": "tt17069276"
+                            }
+                        ],
+                        "secondaryNominees": [
+                            {
+                                "name": "Mo Harawe",
+                                "note": null,
+                                "imageUrl": null,
+                                "imageHeight": 0,
+                                "imageWidth": 0,
+                                "const": "nm10709452"
+                            }
+                        ],
+                        "categoryName": "Short Film",
+                        "winAnnouncementTime": null,
+                        "notes": null,
+                        "songNames": [],
+                        "episodeNames": [],
+                        "awardNominationId": "an1629912",
+                        "characterNames": [],
+                        "awardName": "Golden Berlin Bear",
+                        "isWinner": false
+                    }
+                ],
+                "isPremiumCategory": false
+            }
+        ],
+        "id": "aw0000686"
+    }
+}
