@@ -1,5 +1,5 @@
-let w = 1000;
-let h = 800;
+let w = 700;
+let h = 500;
 let wW = window.innerWidth;
 let wH = window.innerHeight;
 let padding = 90;
@@ -184,7 +184,7 @@ d3.json("monarchs.json").then(function(incomingData){
 
 
   
-
+  let current = 1;
   enterView({
     selector: '.secondWindow',
     enter: function(el) {
@@ -212,10 +212,12 @@ d3.json("monarchs.json").then(function(incomingData){
       console.log(graphTranslationScale(progress))
 // let graphTranslationScale = d3.scaleLinear().domain([0, 100]).range([0, -wH])
 
-      if(this.prev < progress && progress > 0.5){
+      if(this.prev < progress && progress > 0.5 && current != 2){
         showGraph2()
-      }else if(this.prev > progress && progress <= 0.5){
+        current = 2
+      }else if(this.prev > progress && progress <= 0.5 && current != 1){
         showGraph1()
+        current = 1
       }
 
 
