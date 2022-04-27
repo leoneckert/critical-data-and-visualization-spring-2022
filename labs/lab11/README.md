@@ -14,5 +14,5 @@
 - Scrolling Interaction and sticky Elements
   - [boilerplate code](sticky-basic.zip) (from 2021 example)
   - in class demo (if requested)
-    - [recording-2021](https://nyu.zoom.us/rec/share/lKmeSZY-GuW9Ic0pOmElHPDNI7S0aYXn9oqwauFBNfhYQtbNWhIo2xamLk8g_OM.NOKLHwRz5O5ibgbH)
+    - [recording-2021](https://drive.google.com/file/d/1-3UbWfBNNJ2rwBForOrqB1HFBeX7GmWS/view?usp=sharing)
     - [in-class code 2021](in-class-2021)
