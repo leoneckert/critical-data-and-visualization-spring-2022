@@ -1,6 +1,6 @@
 ## Interaction
 
-- [download](historic-events/historic-events.zip) mini project.
+- [download](historic-events/lab10-start.zip) mini project.
 - the data is from [here](https://thebackend.dev/building-monarchs) via [Data Is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0).
 - todays video is [here](https://drive.google.com/file/d/1-cvN_UDxBr9aQ1wgpF88Qd9Im5H__s4i/view?usp=sharing) (43:48)
 
