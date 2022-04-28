@@ -9,9 +9,10 @@ let paddingLeftRight = (wW-w)/2;
 
 let viz = d3.select("#vizContainer").append("svg")
     .style("width", wW)
-    .style("height", wH*2)
+    .style("height", wH)
     .style("background-color", "lavender")
 ;
+
 
 
 let bothGraphs = viz.append("g")
@@ -54,8 +55,6 @@ d3.json("monarchs.json").then(function(incomingData){
     d.countInType = typeCount[d.type];
     typeCount[d.type]++
     maxTypeCount = Math.max(typeCount[d.type],maxTypeCount)
-
-
   })
 
   console.log(maxTypeCount)
