@@ -8,6 +8,9 @@
   - in class example (same as "advanced" above)
     - [code](in-class-2022)
     - [live](https://leoneckert.github.io/critical-data-and-visualization-spring-2022/labs/lab11/in-class-2022)
+    - alternative version using [d3.interpolate](https://github.com/d3/d3-interpolate/blob/main/README.md)
+      - [code](after-class-2022-alternative-transition)
+      - [live](https://leoneckert.github.io/critical-data-and-visualization-spring-2022/labs/lab11/after-class-2022-alternative-transition)
 - resource for scrolling
   - [https://pudding.cool/process/scrollytelling-sticky/](https://pudding.cool/process/scrollytelling-sticky/)
 - Force Graph Video:

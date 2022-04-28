@@ -1,0 +1,41 @@
+body{
+  margin: 0;
+}
+
+.fullHeight{
+  background-color: rgb(77, 219, 136);
+  width: 100%;
+  height: 100vh;
+  outline: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.halfHeight{
+  /* background-color: rgb(172, 88, 250); */
+  width: 100%;
+  height: 50vh;
+  outline: 1px solid black;
+  display: flex;
+  align-items: center;
+}
+.halfHeight p{
+  background-color: rgb(172, 88, 250);
+  padding: 50px;
+  margin-left: 10px;
+}
+
+#vizContainer{
+  position: sticky;
+  top: 0px;
+  z-index: -1;
+
+}
+
+#wrapper2 p{
+  background-color: rgb(251, 73, 73);
+}
+#wrapper2 .fullHeight{
+  background-color: rgb(238, 105, 169);
+}
