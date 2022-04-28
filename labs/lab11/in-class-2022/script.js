@@ -107,7 +107,7 @@ d3.json("monarchs.json").then(function(incomingData){
 
   function showGraph1(){
     
-    let datagroups = graphicGroup.selectAll(".datagroup").data(data);
+    let datagroups = graphicGroup.selectAll(".datagroup").data(data, d=>d.event);
     
     // deal with entering elements
     let enteringElement = datagroups.enter().append("g")
@@ -147,7 +147,7 @@ d3.json("monarchs.json").then(function(incomingData){
 
   function showGraph2(){
     // only ever updates elements because the elements are allready visible in graph 1 when the page starts
-    let updatingDatagroups = graphicGroup.selectAll(".datagroup").data(data);
+    let updatingDatagroups = graphicGroup.selectAll(".datagroup").data(data, d=>d.event);
 
     updatingDatagroups
       .transition()

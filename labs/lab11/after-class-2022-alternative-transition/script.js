@@ -79,6 +79,8 @@ d3.json("monarchs.json").then(function(incomingData){
   // graph 2: Scales and Axis
   // xaxis
   let g2xScale = d3.scaleBand().range([paddingLeft, paddingLeft+gW]);
+  // shuffle not needed but more fun in transition :D
+  // d3.shuffle(types)
   g2xScale.domain(types)
   let g2xAxis = d3.axisBottom(g2xScale);
   let g2xAxisGroup = bothGraphs.append("g")
