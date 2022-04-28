@@ -7,7 +7,7 @@
   - [Live: advanced](https://leoneckert.github.io/critical-data-and-visualization-spring-2022/labs/lab11/graphMove-advanced)
   - in class example (same as "advanced" above)
     - [code](in-class-2022)
-    - [live](https://leoneckert.github.io/critical-data-and-visualization-spring-2022/labs/lab11/graphMove-advanced/in-class-2022)
+    - [live](https://leoneckert.github.io/critical-data-and-visualization-spring-2022/labs/lab11/in-class-2022)
 - resource for scrolling
   - [https://pudding.cool/process/scrollytelling-sticky/](https://pudding.cool/process/scrollytelling-sticky/)
 - Force Graph Video:
