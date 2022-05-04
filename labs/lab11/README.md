@@ -25,5 +25,5 @@
 
 #### add-on:
 this is an example where points are shown on three different force graphs and can be transitioned (by clicking onto the graphs, not ideal, no ideal :D). The "trick"/take-away here is how the positions on each graph (x1, y1, x2, y2, x3, y3) and all cacluation with simlations ONCE, then stored inside the data object and then simply re-used in transitions. That make the experience more smooth because the simulations are quite processing-intensive. I am doing this in all the `.on("end", ...)` events and by wrapping each simulation (three of them) in their own function, executing one after another. 
-- [code](force-graphs-authors)
-- [live](https://leoneckert.github.io/critical-data-and-visualization-spring-2022/labs/lab11/force-graphs-authors)
+- [code](orce-graph-authors)
+- [live](https://leoneckert.github.io/critical-data-and-visualization-spring-2022/labs/lab11/orce-graph-authors)
