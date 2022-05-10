@@ -27,3 +27,26 @@
 this is an example where points are shown on three different force graphs and can be transitioned (by clicking onto the graphs, not ideal, no ideal :D). The "trick"/take-away here is how the positions on each graph (x1, y1, x2, y2, x3, y3) and all cacluation with simlations ONCE, then stored inside the data object and then simply re-used in transitions. That make the experience more smooth because the simulations are quite processing-intensive. I am doing this in all the `.on("end", ...)` events and by wrapping each simulation (three of them) in their own function, executing one after another. 
 - [code](force-graph-authors)
 - [live](https://leoneckert.github.io/critical-data-and-visualization-spring-2022/labs/lab11/force-graph-authors)
+
+
+#### another add-on:
+when you make a sticky div and full screen logic, you might end up noticing that the viz is not clickable because its z-index: -1 messes up with the hirarchy. I found a better way:
+```css
+#vizContainer{
+  position: sticky;
+  top: 0px;
+  /* z-index: -1; */ /* not using this after all */
+}
+/* any elements that float by the viz
+  should not react to mouse interaction
+*/
+.floatingElement{
+  position: relative;
+  pointer-events: none;
+}
+/* 
+but elements INSIDE those floating elements SHOULD respond to mouse so we can highlight your wirting, copy paste etc. normal web interactions */
+.floatingElement > *{
+  pointer-events: all;
+}
+```
